@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+
+ .redirects{
+  display: flex;
+  float: right;
+  background-color: rgb(166, 138, 209);
+  color: white;
+  padding: 10px 25px;
+  border: 10px;
+  margin: 10px;
+  border-radius: 25px;
+ }
+
+.sign_up {
+  margin: 40 px;
+  text-align: center;
+ }
+ 
+ .button{
+  transform: translate(-95px);
+ }
+
+body {
+  background-color: rgb(245, 192, 200);
+ }
